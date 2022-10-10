@@ -1,0 +1,8 @@
+a02c45e8fc71916a95fa912dc0171be3 *DESCRIPTION
+20fdce4508f07f5276d7269d03004b99 *NAMESPACE
+a39fcae60fee9949760607b526ee8c6a *R/static.R
+8aa456d71cfbc44d6471a4a01d14bd06 *README.md
+9b0e6f92b28131185cc2dd03501af2ae *man/static-package.Rd
+d697b8b9ad0a6083fbc9741d4bf15daf *man/static.Rd
+1cd3d51abbf7fd4626dd5d806abb81b4 *src/onload.c
+629770bc9db71266965dbc6246ada0e9 *src/set_attr.c
